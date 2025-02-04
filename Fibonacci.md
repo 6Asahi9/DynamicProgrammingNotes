@@ -1,6 +1,6 @@
 Start by looking at the very end of the tree, as we know the numbers less than or equal to 2 returns as 1
 
-![](../images/image_2025-02-04_111735440.png)
+![](/images/image_2025-02-04_111735440.png)
 
 by looking at this base case , we can say that numbers at the end of the tree (children)
 
