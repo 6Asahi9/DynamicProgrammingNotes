@@ -7,7 +7,7 @@ now if we look at this we have two ways to go from starting point
 
 ![](/images/image_2025-02-04_142727836.png)
 
-and now we can cut the first row and now work of it like if it was a grid of 2 rows and 3 columns 
+and now we can cut the first row and work on it like if it was a grid of 2 rows and 3 columns 
 
 we can even cut it again in (2,2)
 
