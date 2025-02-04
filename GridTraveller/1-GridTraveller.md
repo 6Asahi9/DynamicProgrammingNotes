@@ -24,3 +24,5 @@ Just like Fibonacci , we'll keep going until we reach the base case and come bac
 ![](/images/image_2025-02-04_143303684.png)
 
 and we keep doing it until we reach the root which will give us the answer 3
+
+![](/images/image_2025-02-04_143656737.png)
