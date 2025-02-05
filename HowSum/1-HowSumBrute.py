@@ -14,4 +14,4 @@ def howSum(target, nums):
     return None  # If no solution is found
 
 # Test example
-print(howSum(7, [2, 3]))  # Output: [3, 2] or [2, 3]
+print(howSum(7, [2, 3]))  # Output: [2,2,3]
