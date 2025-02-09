@@ -10,4 +10,5 @@ and slowely you'll start to see , they are forming our Fibonacci sequence
 ![](/images/image_2025-02-09_163439467.png)
 
 we will keep doing this until we reach the end 
+
 ![](/images/image_2025-02-09_163554148.png)
