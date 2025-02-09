@@ -10,6 +10,8 @@ now just like before we'll use two points and start adding the current to its ri
 
 ![](/images/image_2025-02-09_171415900.png)
 
+![](/images/image_2025-02-09_171635257.png)
+
 until we reach the end right corner
 
 ![](/images/image_2025-02-09_171501613.png)
