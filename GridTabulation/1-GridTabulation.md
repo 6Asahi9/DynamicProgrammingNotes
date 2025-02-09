@@ -12,4 +12,4 @@ now just like before we'll use two points and start adding the current to its ri
 
 until we reach the end right corner
 
-![](/imagesimage_2025-02-09_171501613.png)
+![](/images/image_2025-02-09_171501613.png)
