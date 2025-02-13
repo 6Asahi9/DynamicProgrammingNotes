@@ -33,7 +33,7 @@ dp[i][j]=1+dp[i−1][j]
 
 📝 Comparison of Thought Process
 
-![](../../images/image_2025-02-13_205846236.png)
+![](/images/image_2025-02-13_205846236.png)
 
 ### 💡 Why Is Delete Different from Insert?
 * Insert → You are adding characters to match word2.
